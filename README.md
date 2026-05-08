@@ -9,14 +9,13 @@ insights using Power BI and Advanced DAX.
 ## 📊 Dashboard Screenshots
 
 ### Page 1 – Sales Analysis
-![Sales Analysis](powerbi/page1_sales.png)
+![Sales Analysis](powerbi/sales_analysis.png)
 
 ### Page 2 – Profit Analysis
-![Profit Analysis](powerbi/page2_profit.png)
+![Profit Analysis](powerbi/profit.png)
 
 ### Page 3 – Demographics
-![Demographics](powerbi/page3_demographis.png)
-
+![Demographics](powerbi/demographis.png)
 ---
 
 ## 🎯 Key Results
